@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Play.unity
     guid: 107690414a168ab4ba26f60254cf4cf5
+  - enabled: 1
+    path: Assets/Scenes/RoundSelection.unity
+    guid: d14bd25fb8d2f0c4eaed909920eeb0c5
   m_configObjects: {}
